@@ -7,7 +7,7 @@ HOME_PATH=$HOME
 
 # Clona si aún no está
 if [ ! -d "$HOME_PATH/SSP" ]; then
-    git clone https://github.com/TU_USUARIO/SSP.git $HOME_PATH/SSP
+    git clone https://github.com/Arahnose21x/SSP.git $HOME_PATH/SSP
 fi
 
 # Crear alias en .bashrc
